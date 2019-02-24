@@ -9,6 +9,7 @@ __pycache__/
 *.pkl.gz
 *.warc.gz
 *.warc.gz.open
+*.zip
 
 # C extensions
 *.so
