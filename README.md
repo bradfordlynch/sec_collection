@@ -1,4 +1,5 @@
 # Collection of SEC Filings
+Distributed collection of SEC filings using AWS SQS queues and S3 for storage. Enables collection of all 10-K, 10-Q, and 8-K filings in a few hours.
 ## Setup
 Run `aws_setup.py` to configure remote queues on AWS.
 
